@@ -1,4 +1,7 @@
 # vue-template
+```
+一个可以用来生成Vue项目的模板
+```
 
 ## Project setup
 ```
